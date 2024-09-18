@@ -1,7 +1,7 @@
 import requests
 from concurrent.futures import ThreadPoolExecutor
 import time
-from scr import user_add, user_login, file_utils
+from src import user_add, user_login, file_utils
 
 # 读取200个用户信息，并生成列表
 file_path = '../data/app_users.txt'  # 替换成你的文件路径

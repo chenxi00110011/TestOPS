@@ -1,0 +1,11 @@
+{
+  "账号密码登录": {
+    "path": "/p6scloud-server/api/v1/lite/user-login",
+    "data": {"account": "","pwd": "","sn": ""}
+  },
+  "App用户反馈新增(首次)（国内，国际）": {
+    "path": "/p6s/api/mgr/lite/v1/cloud/user-add",
+    "headers": {"token": ""},
+    "data": {"account": "","pwd": "","sn": ""}
+  }
+}

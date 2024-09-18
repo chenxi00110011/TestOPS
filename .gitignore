@@ -1,0 +1,6 @@
+# .gitignore 文件内容
+# 忽略以下目录
+.idea/
+.venv
+doc
+src/__pycache__
