@@ -17,6 +17,6 @@ def read_file_lines(file_path):
 
 # 使用示例
 if __name__ == "__main__":
-    file_path = '../data/app_users.txt'  # 替换成你的文件路径
+    file_path = './dids.txt'  # 替换成你的文件路径
     lines = read_file_lines(file_path)
     print(lines)
